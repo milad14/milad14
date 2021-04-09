@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @milad14
-- 👀 I’m interested in linux, python, flutter, java, machine learning and physics 
+- 👀 I’m interested in linux, python, flutter, java, machine learning, physics and mathematics. 
 - 🌱 I’m currently learning js 
 - this is my email: milad.ranjbar14@gmail.com
 
